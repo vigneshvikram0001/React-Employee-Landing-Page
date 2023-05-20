@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Employee-Landing-Page/static/css/main.9355fdb7.css",
-    "main.js": "/React-Employee-Landing-Page/static/js/main.f9887e1f.js",
-    "static/media/man-portrait1x1.jpg": "/React-Employee-Landing-Page/static/media/man-portrait1x1.04266e20423c3b19c53e.jpg",
+    "main.css": "/React-Employee-Landing-Page/static/css/main.82358853.css",
+    "main.js": "/React-Employee-Landing-Page/static/js/main.7c888481.js",
     "static/media/group16x9.jpg": "/React-Employee-Landing-Page/static/media/group16x9.3308db5370b7e9a61b77.jpg",
     "static/media/pair-programming10x8.jpg": "/React-Employee-Landing-Page/static/media/pair-programming10x8.2476361dee8e764ab421.jpg",
+    "static/media/logo.png": "/React-Employee-Landing-Page/static/media/logo.4d5efb3b17f662a64174.png",
     "index.html": "/React-Employee-Landing-Page/index.html",
-    "main.9355fdb7.css.map": "/React-Employee-Landing-Page/static/css/main.9355fdb7.css.map",
-    "main.f9887e1f.js.map": "/React-Employee-Landing-Page/static/js/main.f9887e1f.js.map"
+    "main.82358853.css.map": "/React-Employee-Landing-Page/static/css/main.82358853.css.map",
+    "main.7c888481.js.map": "/React-Employee-Landing-Page/static/js/main.7c888481.js.map"
   },
   "entrypoints": [
-    "static/css/main.9355fdb7.css",
-    "static/js/main.f9887e1f.js"
+    "static/css/main.82358853.css",
+    "static/js/main.7c888481.js"
   ]
 }
