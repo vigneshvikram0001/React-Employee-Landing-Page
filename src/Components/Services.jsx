@@ -4,11 +4,10 @@ function Services() {
   return (
     <div id="services">
       <h2 className="head">Services</h2>
-      <h3>What we can Provide you</h3>
       <div className="services-cards-list">
         <div class="card service-card">
           <img
-            src="https://img.freepik.com/free-vector/organic-flat-blog-post-illustration-with-people_23-2148955260.jpg?w=1060&t=st=1684422731~exp=1684423331~hmac=be3df12df99f69a9c5d7ac1b1c4382273d14a4190749a16063cefa597f1b8f1d"
+            src="https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?w=1060&t=st=1684567280~exp=1684567880~hmac=29c8decda8f36b21733ca9b69feb9585eab3b537f3d018b495d709991e555552"
             class="card-img-top"
             alt="Web Development"
           />
@@ -18,7 +17,7 @@ function Services() {
         </div>
         <div class="card service-card">
           <img
-            src="https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?w=1380&t=st=1684422319~exp=1684422919~hmac=1fb6411dead86da9a44e111774a24df7316b94172871bedfc0e9607381f3c663"
+            src="https://img.freepik.com/free-photo/web-design-concepts-with-blurred-background_1134-82.jpg?w=1060&t=st=1684567170~exp=1684567770~hmac=a5073864f9efd19a1ef46447435a3cc1e377b0409cd9be4e44044d27279a09b0"
             class="card-img-top"
             alt="Web Desiging"
           />
@@ -28,7 +27,7 @@ function Services() {
         </div>
         <div class="card service-card">
           <img
-            src="https://img.freepik.com/free-vector/blogging-illustration-concept_114360-851.jpg?w=740&t=st=1684423912~exp=1684424512~hmac=06647333108ac36aee4c088185db43a7700e837835b64a1db59d65c622b53896"
+            src="https://img.freepik.com/free-photo/social-media-marketing-concept-marketing-with-applications_23-2150063134.jpg?w=1060&t=st=1684567370~exp=1684567970~hmac=e8a36f0ce55bc8b32c6b2148dda851577dc9ef03ef43c5884157815368ec1528"
             class="card-img-top"
             alt="Content Writing"
           />

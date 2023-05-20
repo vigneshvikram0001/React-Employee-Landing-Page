@@ -12,3 +12,14 @@ body{
     height: 100vh;
     background-color: #fff
 }
+html::-webkit-scrollbar{
+    width: 10px;
+}
+html::-webkit-scrollbar-track{
+    width: 2rem;
+    background: #ffffff28;
+}
+html::-webkit-scrollbar-thumb{
+    background: var(--chakra);
+    border-radius: 1rem;
+}
